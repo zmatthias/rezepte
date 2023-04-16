@@ -1,0 +1,22 @@
+Kommentar: Porridge macht man in die Mikrowelle, alles andere ist Zeitverschwendung
+
+----Ressourcen-----
+
+1 Banane
+Haferflocken
+Salz
+Optional: Cashewkerne
+Mikrowelle
+
+----Buildvorgang----
+
+Haferflocken in Schale
+Banane mit Gabel zerdrücken
+etwa 1/8 Teelöffel Salz dazugeben (sonst schmeckts nicht)
+mit Wasser auffüllen
+3 Minuten in die Mikrowelle
+
+Loop:
+  Umrühren
+  Salzlevel testen
+  Wenn Salzlevel nicht genug: vorsichtig nachsalzen; GOTO Loop;
